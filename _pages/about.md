@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am looking for a PhD position in the field of Petroleum Engineering, Geoscience, and Computer Science in 2025 fall. If you have any available positions, please feel free to contact me directly at [Email](qiguilin1024@163.com).
+
+I am pursuing a PhD program starting in Fall 2025 in Petroleum Engineering, Geoscience, and Computer Science in 2025 fall. If you have any available programs, please feel free to contact me directly at [Email](qiguilin1024@163.com).
 
 Short Bio
 ======
