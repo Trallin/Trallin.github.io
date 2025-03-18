@@ -38,12 +38,7 @@ Education
   * Supervisor: Professor Git
    -->
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 
 
 <!-- * Skill 2
@@ -85,3 +80,9 @@ Skills
 * **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
 * **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
 * **Interests**: History, Classical Latin, Running, Cooking, Gardening
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
