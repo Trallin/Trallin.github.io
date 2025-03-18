@@ -1,11 +1,11 @@
 ---
-title: "Adam Based Development Stage Division in Multiple-Production-Cycles Hydrocarbon Field"  
+title: "Adam Based Development Stage Division in Multiple-Production-Cycles Hydrocarbon Field (Under Review)"  
 collection: publications  
 category: preprints  
 permalink: /publication/2024-04-01-paper-title-number-2
 excerpt: 'Introduces an Adam optimization framework for lifecycle management of hydrocarbon fields with multiple production phases.'  
 # date: 2024-04-01  
-venue: 'Under Review'  
+# venue: 'Under Review'  
 paperurl: '[Link to Preprint]'  
 ---
 

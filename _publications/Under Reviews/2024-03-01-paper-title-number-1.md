@@ -1,11 +1,11 @@
 ---
-title: "Optuna-CNN Based Proxy Model for Calculation of Perforating Shock Loads"  
+title: "Optuna-CNN Based Proxy Model for Calculation of Perforating Shock Loads(Under Review)"  
 collection: publications  
 category: preprints  
 permalink: /publication/2024-03-01-paper-title-number-1
 excerpt: 'Proposes a hybrid Optuna-CNN model to predict perforation-induced shock loads, enhancing computational efficiency.'
 # date: 2024-03-01  
-venue: 'Under Review'  
+# venue: 'Under Review'  
 paperurl: '[Link to Preprint]'  
 ---
 

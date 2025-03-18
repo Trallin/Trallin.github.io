@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Petroleum and Natural Gas Engineering, Yangtze University, 2021-2024
+* M.S. in **Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024
   * GPA: 3.27/4.0, Weighted Average: 83.16
   * Honors & Awards: Graduate Academic Scholarship, International Exchange Scholarship
   * Selected Coursework: Drilling Engineering, Fluid Mechanics, Rock Mechanics, Partial Differential Equation
 
-* B.S. in Computer Science and Technology, Qingdao University of Technology	Qingdao, 2016-2020
+* B.S. in **Computer Science and Technology**, Qingdao University of Technology	Qingdao, 2016-2020
   * Honors & Awards: Undergraduate Scholarship, Provincial Second Prize for C/C++ Algorithm Design, Municipal Second Prize for ACM/ICPC Programming Contest
   * Selected Coursework: Algorithms and Data Structures, Data Mining, Database, Computer Architecture, Compiler Principles
 
@@ -37,10 +37,9 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
    -->
+
 Skills
 ======
-
-
 * **Programming**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS, MATLAB, LaTeX
 * **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
 * **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
