@@ -8,4 +8,9 @@ collection: extracurricular
 - Conducted technical documents Localization and terminology alignment for research teams and academic institutions.
 - Translated over 20 manuscripts from Chinese to English, ensuring linguistic precision and adherence to SCI-indexed journal submission standards.
 
-![2023-08-01-tac-1](/images/extracurricular/2023-08-01-tac-1.jpg)
+<!-- ![2023-08-01-tac-1](/images/extracurricular/2023-08-01-tac-1.jpg) -->
+
+<figure>
+  <img src="/images/extracurricular/2023-08-01-tac-1.jpg" alt="2023-08-01-tac-1">
+  <figcaption style="text-align: center;">Figure 1. Translator Certificate (left) and TAC Certificate (right)</figcaption>
+</figure>
