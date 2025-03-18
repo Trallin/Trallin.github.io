@@ -19,7 +19,7 @@ collection: extracurricular
 
 <figure>
   <img src="/images/extracurricular/2023-07-01-ntu-summer-2.jpeg" alt="2023-07-01-ntu-summer-2.jpeg">
-  <figcaption style="text-align: center;">Figure 2. Group photo at Summer Camp (My position: 2nd from left, front row)</figcaption>
+  <figcaption style="text-align: center;">Figure 2. Group photo at Summer Camp (my position: 2nd from left, front row)</figcaption>
 </figure>
 
 <figure>
