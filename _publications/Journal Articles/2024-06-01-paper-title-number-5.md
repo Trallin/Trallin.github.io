@@ -6,8 +6,8 @@ permalink: /publication/2024-06-01-paper-title-number-5
 excerpt: 'This paper proposes an XGBoost-based framework to analyze production features of carbonate reservoirs, offering insights for reservoir optimization.'
 date: 2024-06-01
 venue: 'Processes'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/article5.pdf'
+# slidesurl: 'http://trallin.github.io/files/slides1.pdf'
+paperurl: 'http://trallin.github.io/article5.pdf'
 doiurl: 'https://doi.org/10.3390/pr12061137'
 
 citation: 'G. Qi, B. Liu. (2024). "Production Feature Analysis of Global Onshore Carbonate Oil Reservoirs Based on XGBoost Classifier." <i>Processes</i> 12, no. 6: 1137.'

@@ -6,8 +6,8 @@ permalink: /publication/2025-01-01-paper-title-number-6
 excerpt: 'A study on perforated tubing dynamics in deep-water wells, integrating numerical simulations to optimize operational safety and efficiency.'  
 date: 2025-01-01  
 venue: 'Ocean Engineering'  
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# slidesurl: 'http://trallin.github.io/files/slides1.pdf'
+# paperurl: 'http://trallin.github.io/files/paper1.pdf'
 doiurl: 'https://doi.org/10.1016/j.oceaneng.2025.120535'
 citation: 'D. Qiao, J. Jiang, D. Yang, H. Han, G. Qi. (2025). &quot;Dynamic Analysis and Optimization of Perforated Tubing Strings in Deep-water Wells under Diverse Operating Conditions.&quot; <i>Ocean Engineering</i> 322: 120535.'  
 ---

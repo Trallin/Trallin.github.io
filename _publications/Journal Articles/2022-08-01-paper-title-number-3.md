@@ -6,7 +6,7 @@ permalink: /publication/2022-08-01-paper-title-number-3
 excerpt: 'Develops an ANN-based model for early kick detection, enhancing drilling safety in complex environments.'  
 date: 2022-08-01  
 venue: 'Energies'  
-paperurl: 'http://academicpages.github.io/article3.pdf'
+paperurl: 'http://trallin.github.io/article3.pdf'
 doiurl: 'https://doi.org/10.3390/en15165912'
 citation: 'Y. Zhao, Z. Huang, F. Xin, G. Qi, H. Huang. (2022). &quot;Kick Prediction Method Based on Artificial Neural Network Model.&quot; <i>Energies</i> 15, no. 16: 5912.'  
 ---

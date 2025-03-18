@@ -6,7 +6,7 @@ permalink: /publication/2024-02-01-paper-title-number-4
 excerpt: 'Investigates the mechanical failure mechanisms of tubing in ultra-deep wells through advanced numerical models.'  
 date: 2024-02-01  
 venue: 'Processes'  
-paperurl: 'http://academicpages.github.io/article4.pdf'
+paperurl: 'http://trallin.github.io/article4.pdf'
 doiurl: 'https://doi.org/10.3390/pr12020380'
 citation: 'J. Jiang, D. Qiao, D. Yang, G. Qi, F. Zhang, L. Tan. (2024). &quot;Numerical Simulation Study on the Damage Mechanism of the Combined Perforating Well Testing Tubing in Ultra-Deep Wells.&quot; <i>Processes</i> 12, no. 2: 380.'  
 ---
