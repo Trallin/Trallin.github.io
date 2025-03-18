@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a PhD program starting in Fall 2025 in Petroleum Engineering, Geoscience, and Computer Science in 2025 fall. If you have any available programs, please feel free to contact me directly at qiguilin1024@163.com.
+I am **pursuing a PhD program starting in Fall 2025** in Petroleum Engineering, Geoscience, and Computer Science in 2025 fall. If you have any available programs, please feel free to contact me directly at [Email](mailto:qiguilin1024@163.com) (qiguilin1024@163.com).
 
 Short Bio
 ======
