@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in **Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024
+* **M.S. in Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024
   * GPA: 3.27/4.0, Weighted Average: 83.16
   * Honors & Awards: Graduate Academic Scholarship, International Exchange Scholarship
   * Selected Coursework: Drilling Engineering, Fluid Mechanics, Rock Mechanics, Partial Differential Equation
 
-* B.S. in **Computer Science and Technology**, Qingdao University of Technology	Qingdao, 2016-2020
+* **B.S. in Computer Science and Technology**, Qingdao University of Technology	Qingdao, 2016-2020
   * Honors & Awards: Undergraduate Scholarship, Provincial Second Prize for C/C++ Algorithm Design, Municipal Second Prize for ACM/ICPC Programming Contest
   * Selected Coursework: Algorithms and Data Structures, Data Mining, Database, Computer Architecture, Compiler Principles
 
@@ -38,12 +38,13 @@ Education
   * Supervisor: Professor Git
    -->
 
-Skills
+Publications
 ======
-* **Programming**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS, MATLAB, LaTeX
-* **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
-* **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
-* **Interests**: History, Classical Latin, Running, Cooking, Gardening
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 
 <!-- * Skill 2
   * Sub-skill 2.1
@@ -51,12 +52,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -82,3 +78,10 @@ HONORS & AWARDS
 * Qingdao University of Technology Undergraduate Scholarship,	2017
 * ACM/ICPC Programming Contest: Municipal Second Prize,	2017
 * International Chemistry Olympiad (IChO): Provincial First Prize,	2015
+
+Skills
+======
+* **Programming**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS, MATLAB, LaTeX
+* **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
+* **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
+* **Interests**: History, Classical Latin, Running, Cooking, Gardening
