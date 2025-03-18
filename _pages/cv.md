@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Petroleum and Natural Gas Engineering, Yangtze University, 2021-2024
+  * GPA: 3.27/4.0, Weighted Average: 83.16
+  * Honors & Awards: Graduate Academic Scholarship, International Exchange Scholarship
+  * Selected Coursework: Drilling Engineering, Fluid Mechanics, Rock Mechanics, Partial Differential Equation
 
-Work experience
+* B.S. in Computer Science and Technology, Qingdao University of Technology	Qingdao, 2016-2020
+  * Honors & Awards: Undergraduate Scholarship, Provincial Second Prize for C/C++ Algorithm Design, Municipal Second Prize for ACM/ICPC Programming Contest
+  * Selected Coursework: Algorithms and Data Structures, Data Mining, Database, Computer Architecture, Compiler Principles
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -31,15 +36,21 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+   -->
 Skills
 ======
-* Skill 1
-* Skill 2
+
+
+* **Programming**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS, MATLAB, LaTeX
+* **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
+* **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
+* **Interests**: History, Classical Latin, Running, Cooking, Gardening
+
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,7 +58,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +72,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+HONORS & AWARDS 
+======
+* Yangtze University International Exchange Scholarship,	2023
+* Yangtze University Graduate Academic Scholarship,	2022
+* CATTI Level-3 Translation Certificate (English-Chinese),	2021
+* Blue Bridge Cup C/C++ Algorithm Design: Provincial Second Prize,	2018
+* Qingdao University of Technology Undergraduate Scholarship,	2017
+* ACM/ICPC Programming Contest: Municipal Second Prize,	2017
+* International Chemistry Olympiad (IChO): Provincial First Prize,	2015
