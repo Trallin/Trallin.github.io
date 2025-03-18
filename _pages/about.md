@@ -31,3 +31,6 @@ Publication
 1. Q., Chen, D. Qiao, L. Tan, **G. Qi**, J. Zhang. Status and Prospects of Dual-Gradient Drilling Technologies in Deep-Water Wells. Frontiers in Energy Research (2022): 675. 	
 1. **G. Qi**, D. Qiao, J. Jiang, D. Yang, Optuna-CNN Based Proxy Model for Calculation of Perforating Shock Loads. (Under Review) 	 
 1. **G. Qi**, B. Liu. Adam Based Development Stage Division in Multiple-Production-Cycles Hydrocarbon Field. (Under Review)	
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=xefMP0TmPUrDYchuBSkRkp8PNdQX3pSFmUYOFVhVpbI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>

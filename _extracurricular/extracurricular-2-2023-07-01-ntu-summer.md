@@ -7,6 +7,7 @@ collection: extracurricular
 - Delivered speeches as Student Representative at opening and closing ceremonies.
 - Conducted academic exchanges on robotics, data mining and advanced algorithms.
 - Led and translated for a 39-member delegation sponsored by Provincial Outstanding Students Program.
-<br/><img src='/images/extracurricular/2023-07-01-ntu-summer-1.jpeg'>
-<br/><img src='/images/extracurricular/2023-07-01-ntu-summer-2.jpeg'>
-<br/><img src='/images/extracurricular/2023-07-01-ntu-summer-3.jpg'>
+
+![2023-07-01-ntu-summer-1](/images/extracurricular/2023-07-01-ntu-summer-1.jpeg)
+![2023-07-01-ntu-summer-2](/images/extracurricular/2023-07-01-ntu-summer-2.jpeg)
+![2023-07-01-ntu-summer-3](/images/extracurricular/2023-07-01-ntu-summer-3.jpg)
