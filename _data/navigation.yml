@@ -20,8 +20,8 @@ main:
   - title: "Extracurricular Activities"
     url: /extracurricular/
   
-  - title: "portfolio"
-    url: /portfolio/
+  # - title: "portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/

@@ -7,4 +7,4 @@ collection: extracurricular
 - Certified Translator (CATTI Level 3) with expertise in academic and technical translation.
 - Conducted technical documents Localization and terminology alignment for research teams and academic institutions.
 - Translated over 20 manuscripts from Chinese to English, ensuring linguistic precision and adherence to SCI-indexed journal submission standards.
-<br/><img src='/images/extracurricular/2023-08-01-tac-1.jpg'>"
+<br/><img src='/images/extracurricular/2023-08-01-tac-1.jpg'>
