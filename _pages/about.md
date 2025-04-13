@@ -12,7 +12,7 @@ I am a **MS graduate in Petroleum and Natural Gas Engineering** from Yangtze Uni
 
 To date, I have authored **8 research articles (6 published, 2 under review)** in peer-reviewed journals, with a **total impact factor of 21.0**.
 
-<img src="/images/hiclipart_announcement.png"  style="height: 1em; width: auto;">I am **pursuing a PhD program starting in 2025 or 2026** in Petroleum Engineering, Geoscience, and Computer Science. If you have any available programs, please feel free to contact me directly at [Email](mailto:qiguilin1024@163.com) (qiguilin1024@163.com).
+<img src="/images/hiclipart_announcement.png"  style="height: 1.5em; width: auto;"> **I am pursuing a PhD program starting in 2025 or 2026** in Petroleum Engineering, Geoscience, and Computer Science. If you have any available programs, please feel free to contact me directly at [Email](mailto:qiguilin1024@163.com) (qiguilin1024@163.com).
 
 Recent news
 ======
