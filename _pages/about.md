@@ -22,8 +22,8 @@ Recent news
 
 Publication
 ======
-1. Q. Deng, **G. Qi***, J. Jiang, D. Yang, Optuna-CNN based proxy model for calculation of perforating shock loads. Geoenergy Science and Engineering 214439, (2026).
-1. **G. Qi**, B. Liu (2024). Production Feature Analysis of Global Onshore Carbonate Oil Reservoirs Based on XGBoost Classier. Processes 12, no. 6: 1137.	
+1. Q. Deng, **G. Qi***, J. Jiang, D. Yang, Optuna-CNN based proxy model for calculation of perforating shock loads. Geoenergy Science and Engineering, (2026): 214439.
+1. **G. Qi**, B. Liu. Production Feature Analysis of Global Onshore Carbonate Oil Reservoirs Based on XGBoost Classier. Processes 12, no. 6, (2024): 1137.	
 1. D. Qiao, J. Jiang, D. Yang, H. Han, **G. Qi**. Dynamic Analysis and Optimization of Perforated Tubing Strings in Deep-water Wells under Diverse Operating Conditions. Ocean Engineering 322, (2025): 120535. 	
 1. J. Jiang, D. Qiao, D. Yang, **G. Qi**, F. Zhang, L. Tan. Numerical Simulation Study on the Damage Mechanism of the Combined Perforating Well Testing Tubing in Ultra-Deep Wells. Processes 12, no. 2 (2024): 380. 	
 1. Y. Zhao, Z. Huang, F. Xin, **G. Qi**, H. Huang. Kick Prediction Method Based on Artificial Neural Network Model. Energies 15, no. 16 (2022): 5912. 	
