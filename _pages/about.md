@@ -10,26 +10,26 @@ redirect_from:
 
 I am a **MS graduate in Petroleum and Natural Gas Engineering** from Yangtze University, leveraging a robust interdisciplinary background in **Computer Science (B.S., Qingdao University of Technology)**. My research focuses on **integrating machine learning with petroleum engineering** to optimize hydrocarbon field development, reservoir analysis, and operational safety. Notable achievements include developing an ADAM-based framework for hydrocarbon stage classification, designing a deep learning model for perforating shock load prediction.
 
-To date, I have authored **8 research articles (6 published, 2 under review)** in peer-reviewed journals, with a **total impact factor of 21.0**.
+To date, I have authored **8 research articles (7 published in peer-reviewed journals, 1 in preprint)**, with a **total impact factor of 23.7**.
 
-<img src="/images/hiclipart_announcement.png"  style="height: 1.5em; width: auto;"> **I am pursuing a PhD program starting in 2026** in Petroleum Engineering, Geoscience, and Computer Science. If you have any available programs, please feel free to contact me directly at [Email](mailto:qiguilin1024@163.com) (qiguilin1024@163.com).
+<img src="/images/hiclipart_announcement.png"  style="height: 1.5em; width: auto;"> **I am pursuing a PhD program starting in 2026** in Petroleum Engineering, Geoscience, and Computer Science. If you have any available programs, please feel free to contact me directly at [my Email](mailto:qiguilin1024@163.com) (qiguilin1024@163.com).
 
 Recent news
 ======
+- [February 2026] [A paper has been accepted by Geoenergy Science and Engineering](https://doi.org/10.1016/j.geoen.2026.214439).
 - [January 2025] [A paper has been accepted by Ocean Engineering](https://doi.org/10.1016/j.oceaneng.2025.120535).
 - [May 2024] [A paper has been accepted by Processes](https://doi.org/10.3390/pr12061137).
-- [Februay 2024] [A paper has been accepted by Processes](https://doi.org/10.3390/pr12020380).
 
 Publication
 ======
+1. Q. Deng, **G. Qi***, J. Jiang, D. Yang, Optuna-CNN based proxy model for calculation of perforating shock loads. Geoenergy Science and Engineering 214439, (2026).
 1. **G. Qi**, B. Liu (2024). Production Feature Analysis of Global Onshore Carbonate Oil Reservoirs Based on XGBoost Classier. Processes 12, no. 6: 1137.	
 1. D. Qiao, J. Jiang, D. Yang, H. Han, **G. Qi**. Dynamic Analysis and Optimization of Perforated Tubing Strings in Deep-water Wells under Diverse Operating Conditions. Ocean Engineering 322, (2025): 120535. 	
 1. J. Jiang, D. Qiao, D. Yang, **G. Qi**, F. Zhang, L. Tan. Numerical Simulation Study on the Damage Mechanism of the Combined Perforating Well Testing Tubing in Ultra-Deep Wells. Processes 12, no. 2 (2024): 380. 	
 1. Y. Zhao, Z. Huang, F. Xin, **G. Qi**, H. Huang. Kick Prediction Method Based on Artificial Neural Network Model. Energies 15, no. 16 (2022): 5912. 	
 1. D. Qiao, X. Ling, K. Zhang, L. Tan, **G. Qi**, J. Zhang. CCS and CCUS Technologies: Giving the Oil and Gas Industry a Green Future. Frontiers in Energy Research (2022): 718. 	
 1. Q., Chen, D. Qiao, L. Tan, **G. Qi**, J. Zhang. Status and Prospects of Dual-Gradient Drilling Technologies in Deep-Water Wells. Frontiers in Energy Research (2022): 675. 	
-1. **G. Qi**, D. Qiao, J. Jiang, D. Yang, Optuna-CNN Based Proxy Model for Calculation of Perforating Shock Loads. (Under Review) 	 
-1. **G. Qi**, B. Liu. Adam Based Development Stage Division in Multiple-Production-Cycles Hydrocarbon Field. (Under Review)	
+1. **G. Qi**, B. Liu. Adam Based Development Stage Division in Multiple-Production-Cycles Hydrocarbon Field. (preprint)	
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=xefMP0TmPUrDYchuBSkRkp8PNdQX3pSFmUYOFVhVpbI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>

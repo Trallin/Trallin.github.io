@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024
+* **M.S. in Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024`
   * GPA: 3.27/4.0, Weighted Average: 83.16
   * Honors & Awards: Graduate Academic Scholarship, International Exchange Scholarship
   * Selected Coursework: Drilling Engineering, Fluid Mechanics, Rock Mechanics, Partial Differential Equation
