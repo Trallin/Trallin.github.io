@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024`
+* **M.S. in Petroleum and Natural Gas Engineering**, Yangtze University, 2021-2024
   * GPA: 3.27/4.0, Weighted Average: 83.16
   * Honors & Awards: Graduate Academic Scholarship, International Exchange Scholarship
   * Selected Coursework: Drilling Engineering, Fluid Mechanics, Rock Mechanics, Partial Differential Equation
 
-* **B.S. in Computer Science and Technology**, Qingdao University of Technology	Qingdao, 2016-2020
-  * Honors & Awards: Undergraduate Scholarship, Provincial Second Prize for C/C++ Algorithm Design, Municipal Second Prize for ACM/ICPC Programming Contest
+* **B.S. in Computer Science and Technology (Outstanding Engineer Track)**, Qingdao University of Technology	Qingdao, 2016-2020
+  * Honors & Awards: Undergraduate Scholarship, Provincial Second Prize for C/C++ Algorithm Design, Municipal Second Prize for ACM/ICPC Programming Contest, Selected into the Outstanding Engineer Program (admission rate < 20%)
   * Selected Coursework: Algorithms and Data Structures, Data Mining, Database, Computer Architecture, Compiler Principles
 
 <!-- Work experience
@@ -72,14 +72,14 @@ HONORS & AWARDS
 * Blue Bridge Cup C/C++ Algorithm Design: Provincial Second Prize,	2018
 * Qingdao University of Technology Undergraduate Scholarship,	2017
 * ACM/ICPC Programming Contest: Municipal Second Prize,	2017
-* International Chemistry Olympiad (IChO): Provincial First Prize,	2015
+* ?	China Chemistry Olympiad (CChO): Provincial First Prize,	2015
 
 Skills
 ======
 * **Programming**: Python, C/C++, SQL, Java, JavaScript, HTML/CSS, MATLAB, LaTeX
 * **Data Analytics & AI**: NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow, OpenCV
-* **Language**: Mandarin Chinese (Native), English (IELTS:6.5)
-* **Interests**: History, Classical Latin, Running, Cooking, Gardening
+* **Language**: English (IELTS:6.5), Mandarin Chinese (Native), Classical Latin (Beginner)
+* **Interests**: Long-Distance Race(10km/1hour), Skiing, History, Cooking
 
 Publications
 ======

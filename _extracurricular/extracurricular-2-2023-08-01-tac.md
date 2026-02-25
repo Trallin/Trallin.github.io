@@ -1,5 +1,5 @@
 ---
-title: "Certified Translator - Translators Association of China (TAC)"
+title: "Member - Translators Association of China (TAC)"
 # date: 2023-08-01
 excerpt: "As a certified translator (Aug 2023-Present), I specialize in technical document localization and academic translation. My work includes terminology standardization for research institutions and translating 20+ scientific manuscripts to meet SCI-indexed journal requirements, ensuring linguistic precision and cultural appropriateness.<br/><img src='/images/extracurricular/2023-08-01-tac-1.jpg'>"
 collection: extracurricular
